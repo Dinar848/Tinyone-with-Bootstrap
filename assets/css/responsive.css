@@ -1,0 +1,16 @@
+@media only screen and (max-width: 768px) {
+
+    .header-text {
+        text-align: center;
+    }
+
+    .banner-img {
+        text-align: center;
+    }
+
+    ul.navbar-nav {
+        text-align: center;
+    }
+
+
+}
